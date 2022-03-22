@@ -1,0 +1,13 @@
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fManager.resources
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+E:\Study\Visual Studio\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
